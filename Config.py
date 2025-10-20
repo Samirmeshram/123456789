@@ -22,12 +22,9 @@ class Config:
     MIN_VERIFICATION_TIME = 30
     VERIFICATION_TIMEOUT = 300
     
-    # Blogger Pages Configuration
-    BLOGGER_BASE_URL = "https://your-blogger-site.blogspot.com"  # Apna blogger URL daalna
-    BOT_USERNAME = "DpCinemaFilesBot"  # Ye automatically update ho jayega
-    
-    # Website Configuration
-    WEBSITE_URL = "https://dp-cinema.com"  # Apna website URL
+    # Blogger Pages Configuration - YOUR BLOGGER LINK
+    BLOGGER_BASE_URL = "https://dpcinemafiles.blogspot.com/2025/10/Redirect.html"
+    BOT_USERNAME = "ALEX_STAR_MY_LOVE_BOT"  # YOUR BOT USERNAME
     
     # File Settings - UNLIMITED
     MAX_FILE_SIZE = 0  # 0 means unlimited
